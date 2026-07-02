@@ -1,0 +1,65 @@
+
+ HTML  
+         ----------
+             HTML  stands  for  Hyper text markup  lang.
+
+             HTML  is used to develope  structure of web page.
+
+             To  develope  Structure of Web page we have to use  following Syntax.
+
+          Syntax:
+         -------------
+              <html>
+                      <head>
+                               <title>........</title>
+                      </head>
+
+                       <body>
+                                         ---------------
+                                         ---------------
+                                         ----------------
+                        </body>
+            </html>
+
+
+                  There  are  two  imp  Tag
+
+                      A)   <head> .... </head>
+                      B)    <body>......</body>
+
+
+                      A)   <head> .... </head>    :
+                      ----------------------------  
+                             This   tag is used to play  imp  role  to add Javascript , CSS, JQuery, Bootstrap.
+
+                             <title>........</title> :  This tag play imp role for Google Search.
+
+
+                    B)    <body>......</body>     :
+                       -----------------------------
+                                 This tag  is  main in HTML Programming.
+                                  
+                                  Attributes of <body>  Tag
+                                ------------------------------
+                                    1) bgcolor=colorName:    We can set background color to web page.
+
+                                    2)text=colorName :  We cab set  color to text on web page.
+
+                                    3)background=ImageName :  We can background image to web page.
+
+
+
+
+tags also have two type 
+1. opening and closing tag: <></>
+2.self closing tags.</>
+
+
+
+shift+!+enter
+
+<!DOCTYPE html>: show the version of HTML HTML5
+
+
+
+if you have to store image in folder you have to use .jpg or .png

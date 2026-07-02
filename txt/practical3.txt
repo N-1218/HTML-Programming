@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Anvistar</title>
+    </head>
+    <body>
+        <center>
+        <u><p>Hello I am From Pune</p></u>
+        </center>
+        <br/>
+        <hr/>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis sequi modi et? Quisquam, omnis atque. Facere, magnam blanditiis nisi magni doloribus quaerat non aperiam cum ad harum quisquam, voluptatum minus.</p>
+
+<center>
+        <h1>Welcome</h1>
+    <b><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae inventore voluptatum aspernatur, ad non quae aperiam nulla iusto molestias sit sapiente ratione repellat! Enim in eum cum aspernatur suscipit dolor!</p></b>
+
+    
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis illo <strong>reiciendis assumenda non nobis officiis quasi quod optio.</strong>  Rerum officia minus similique veritatis perferendis aliquam atque quo eveniet nulla!</p>
+                </center>
+    </body>
+</html>
